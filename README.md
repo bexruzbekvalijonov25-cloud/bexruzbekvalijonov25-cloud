@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Coding Animated GIF](https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif)
+<h1 align="center">Salom, Men Dasturchiman! 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif" width="450" alt="Coding Animated GIF">
+</p>
+
+<p align="center">
+  💻 Kod yozish | 🚀 Yangi texnologiyalar | ☕ Kofe
+</p>
