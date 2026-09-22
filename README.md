@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-dfrgd
-thgrth
-rth
-ryj
-hty
-jty
-jt
-yjt
-uj
-ty
+![Coding Animated GIF](https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif)
